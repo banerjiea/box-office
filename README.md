@@ -15,7 +15,7 @@ Result of this project : https://banerjiea.github.io/box-office/#/
 
 The official template project for `npx create-react-app my-app --use-npm` (https://create-react-app.dev/docs/getting-started/).
 
-- `npm run start` — This will spawn a development server with a default port of `3000`.
+- `npm run start` — This will produce a development server with a default port of `3000`.
 - `npm run build` — This will output a production build in the `build` directory.
 
 ## Adding styles
