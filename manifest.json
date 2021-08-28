@@ -5,18 +5,20 @@
     {
       "src": "maskable_icon.png",
       "sizes": "64x64",
-      "type": "image/x-icon"
+      "type": "image/x-icon",
+      "purpose": "any"
     },
     {
-      "src": "logo192.png",
+      "src": "maskable_icon (1).png",
       "type": "image/png",
-      "sizes": "64x64",
+      "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "logo512.png",
+      "src": "maskable_icon (2).png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any"
     }
   ],
   "start_url": ".",
