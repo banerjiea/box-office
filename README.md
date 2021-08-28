@@ -1,4 +1,6 @@
-# Overview
+# Box-office
+
+## Overview
 
 A shows and actors search app that consumes an external API to display data.
 
@@ -11,7 +13,7 @@ Result of this project : https://banerjiea.github.io/box-office/#/
 
 ## Create React App Official Template
 
-The official template project for [ `npx create-react-app my-app --use-npm` ](https://create-react-app.dev/docs/getting-started/).
+The official template project for `npx create-react-app my-app --use-npm` (https://create-react-app.dev/docs/getting-started/).
 
 - `npm run start` — This will spawn a development server with a default port of `3000`.
 - `npm run build` — This will output a production build in the `dist` directory.
