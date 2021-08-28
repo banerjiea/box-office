@@ -11,7 +11,7 @@ Result of this project : https://banerjiea.github.io/box-office/#/
 
 ## Create React App Official Template
 
-The official template project for [ npx create-react-app my-app --use-npm ](https://create-react-app.dev/docs/getting-started/).
+The official template project for [ `npx create-react-app my-app --use-npm` ](https://create-react-app.dev/docs/getting-started/).
 
 - `npm run start` — This will spawn a development server with a default port of `3000`.
 - `npm run build` — This will output a production build in the `dist` directory.
@@ -33,6 +33,6 @@ You can use styled components as an alternative to style our application with Ja
 You can also deploy your project using GitHub pages.
 (https://create-react-app.dev/docs/deployment/#github-pages):
 
-1. Open the `package.json` file and change homepage from "https://banerjiea.github.io/box-office" to "https://Your_Username.github.io/REPOSITORY_NAME"
+1. Open the `package.json` file and change homepage from `"https://banerjiea.github.io/box-office"` to `"https://Your_Username.github.io/REPOSITORY_NAME"`
 
 2. Run `npm run deploy`
