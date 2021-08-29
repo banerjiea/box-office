@@ -6,6 +6,8 @@ A shows and actors search app that consumes an external API to display data.
 
 API : https://www.tvmaze.com/api
 
+This is a Progressive web app.
+
 Result of this project : https://banerjiea.github.io/box-office/#/
 
 - React
