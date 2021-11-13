@@ -8,7 +8,7 @@ API : https://www.tvmaze.com/api
 
 This is a Progressive web app.
 
-Result of this project : https://banerjiea.github.io/box-office/#/
+Result of this project : https://banerjiea.github.io/box-office/#/  & https://myboxoffice.surge.sh/
 
 - React
 - Styles with Styled Components
